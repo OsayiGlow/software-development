@@ -13,6 +13,7 @@ class TSL_Staff:
         self.hobby = kwargs.get('hobby', None)  
         self.portfolio ={}
     
+ 
     def __str__(self):
         attrs = [
             f"Name: {self.name}",
