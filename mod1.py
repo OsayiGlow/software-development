@@ -29,6 +29,8 @@ import time
 
 # print(my_tuple[5:])
 
+
+
 def laptop(brand, size, color, battery_life =100):
     print(f"Hi, We got a new laptop for sale, it is {brand} laptop, its size is {size} inches,color is {color},batttery life is {battery_life}")
 
